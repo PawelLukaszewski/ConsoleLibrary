@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Application {
     public static void main(String[] args) {
-        System.out.println("-Choose option--");
+        System.out.println("Choose option");
         System.out.println("1.Add new user." + "\n" + "2.Remove user." + "\n" + "3.Show all users.");
         System.out.println("4.Add new book." + "\n" + "5.Remove book." + "\n" + "6.Show all books.");
         System.out.println("7.Add new lend." + "\n" + "8.Remove lend." + "\n" + "9.Show all lends.");
