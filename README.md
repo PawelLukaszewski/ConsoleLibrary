@@ -8,7 +8,7 @@ ConsoleLibrary is a simple console application.
 * [Contact](#contact)
 
 ## General info
-I decided to create this application to develop my knowledge about how to connect the application with the database and how to use the singleton design pattern effectively
+I decided to create this application to develop my knowledge about databases and how to connect the application with the database and how to use the singleton design pattern effectively.
 
 ## Technologies
 * Java 8
