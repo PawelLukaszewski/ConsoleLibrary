@@ -1,5 +1,5 @@
 # ConsoleLibrary
-> ConsoleLibrary is a simple console application.
+ConsoleLibrary is a simple console application.
 
 ## Table of contents
 * [General info](#general-info)
